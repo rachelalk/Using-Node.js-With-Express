@@ -1,5 +1,5 @@
-<h1>Using node.js with express<h1>
-  <h2> What we learnt:<h2>
+<h1>Using node.js with express</h1>
+  <h2> What we learnt:</h2>
     <ul>
   <li>Using .gitignore is very important when using modules, to avoid pushing all module files onto github.</li>
       <li>We used nodemon as a developer tool so that we didn't need to keep disconnecting and reconnecting to the server to see our changes.</li>
